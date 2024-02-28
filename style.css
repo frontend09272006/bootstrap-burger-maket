@@ -1,0 +1,81 @@
+.body-img{
+    background-image: url(img/body-img.png);
+    min-height: 886.166px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.navbar-links{
+    gap: 250px;
+}
+.order{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    background: #F6762C;
+}
+.col6-p{
+    margin-top: 186px;
+}
+.quti1{
+    min-height: 543px;
+    width: 100%;
+    background: #1C1C1C;
+}
+.row1{
+    min-height: 543px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.p-razmer{
+    width: 262px;
+    height: 130px;
+    background-color: #312F30;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.Chicken{
+    padding-top: 28px;
+}
+.row2{
+    min-height: 543px;
+    background-color: #312F30;
+}
+.col5-1{
+    background-image: url(img/Mask\ Group\ \(1\).png);
+    width: 555px;
+    min-height: 300px;
+}
+.col5-2{
+    background-image: url(img/Mask\ Group\ \(2\).png);
+    width: 555px;
+    min-height: 300px;
+}
+.col5-3{
+    background-image: url(img/Mask\ Group\ \(3\).png);
+    width: 555px;
+    min-height: 300px;
+}
+.col5-4{
+    background-image: url(img/Mask\ Group\ \(4\).png);
+    width: 555px;
+    min-height: 300px;
+}
+.row3{
+    gap: 30px;
+    width: 100%;
+    min-height: 900px;
+    background-color: #1C1C1C;
+}
+.quti4{
+    min-height: 170px;
+    background-color: #312F30;
+
+
+}
+.footer{
+    min-height: 381px;
+    background: #1C1C1C;
+}
